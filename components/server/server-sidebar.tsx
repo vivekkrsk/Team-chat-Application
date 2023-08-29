@@ -117,7 +117,7 @@ export const ServerSidebar = async ({
                 }))
               },
             ]}
-          />
+          /> 
         </div>
         <Separator className="bg-zinc-200 dark:bg-zinc-700 rounded-md my-2" />
         {!!textChannels?.length && (
